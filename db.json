@@ -1,0 +1,7 @@
+{
+  "subscription": [
+    {"customerName": "John", "channels": "42", "status": "Active"},
+    {"customerName": "Barbara", "channels": "68", "status": "Not Active"},
+    {"customerName": "Ann", "channels": "51", "status": "Active"}
+  ]
+}
